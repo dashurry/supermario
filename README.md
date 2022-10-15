@@ -17,5 +17,5 @@ Eine Kundendatenbank, ein Tischreservierungssystem und ein Admin-Dashboard zur V
 
 
 <div align="center">
-<img width="100%" alt="image" src="https://github.com/dashurry/Duschfit/blob/main/img/Duschfit_1.webp">
+<img width="100%" alt="image" src="https://github.com/dashurry/dashurry/blob/main/supermarioristorante_3.webp">
 </div>
