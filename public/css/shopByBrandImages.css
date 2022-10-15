@@ -1,0 +1,32 @@
+.bg-nastroAzzurroLogoGray {
+    width: 150px; height: 80px;
+    background: url('../image/css_sprites.webp') -150px -0;
+}
+.bg-nastroAzzurroLogo{
+    width: 150px; height: 80px;
+    background: url('../image/css_sprites.webp') -0 -0;
+}
+.bg-peroniLogo150x80 {
+    width: 150px; height: 80px;
+    background: url('../image/css_sprites.webp') -0 -80px;
+}
+.bg-peroniLogoGray150x80 {
+    width: 150px; height: 80px;
+    background: url('../image/css_sprites.webp') -150px -80px;
+}
+.bg-birraMorettiLogo {
+    width: 150px; height: 80px;
+    background: url('../image/css_sprites.webp') -0 -160px;
+}
+.bg-birraMorettiLogoGray {
+    width: 150px; height: 80px;
+    background: url('../image/css_sprites.webp') -150px -160px;
+}
+.bg-ichnusaLogo {
+    width: 150px; height: 80px;
+    background: url('../image/css_sprites.webp') -300px -0;
+}
+.bg-ichnusaLogoGray {
+    width: 150px; height: 80px;
+    background: url('../image/css_sprites.webp') -300px -80px;
+}

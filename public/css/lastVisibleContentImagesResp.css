@@ -1,0 +1,23 @@
+.instagramcarpaccio-copy, .instagrammeat-copy, .instagrampasta-copy, .instagramshakeoriginal-copy, .cards, 
+.textlogo, .icedmocha, .smalldonut60x60, .smallpizzanapoletana60x60, .smallsalatbowl60x60, 
+.edwardchew, .michaelsmith, .emma42x42, .janeffel, .janepalson, 
+.sarahcole, .timbrooks
+{ max-width: 100%; background-size: 100%; background-image: url('../image/lastVisibleContentImagesResp.png'); }
+ 
+.instagramcarpaccio-copy { background-position: 0 0%; background-size: 100%; }
+.instagrammeat-copy { background-position: 0 22.271224%; background-size: 100%; }
+.instagrampasta-copy { background-position: 0 44.542448%; background-size: 100%; }
+.instagramshakeoriginal-copy { background-position: 0 66.813671%; background-size: 100%; }
+.cards { background-position: 0 74.196511%; background-size: 164.615385%; }
+.textlogo { background-position: 0 75.616438%; background-size: 396.296296%; }
+.icedmocha { background-position: 0 78.035218%; background-size: 713.333333%; }
+.smalldonut60x60 { background-position: 0 80.81557%; background-size: 713.333333%; }
+.smallpizzanapoletana60x60 { background-position: 0 83.595922%; background-size: 713.333333%; }
+.smallsalatbowl60x60 { background-position: 0 86.376274%; background-size: 713.333333%; }
+.edwardchew { background-position: 0 88.419118%; background-size: 1019.047619%; }
+.michaelsmith { background-position: 0 90.349265%; background-size: 1019.047619%; }
+.emma42x42 { background-position: 0 92.279412%; background-size: 1019.047619%; }
+.janeffel { background-position: 0 94.209559%; background-size: 1019.047619%; }
+.janepalson { background-position: 0 96.139706%; background-size: 1019.047619%; }
+.sarahcole { background-position: 0 98.069853%; background-size: 1019.047619%; }
+.timbrooks { background-position: 0 100%; background-size: 1019.047619%; }

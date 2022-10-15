@@ -1,0 +1,24 @@
+.bg-category_Pasta_1445460578 {
+    width: 150px; height: 150px;
+    background: url('../image/categoryIcons.png') -681px -0;
+}
+.bg-category_Dessert_2113203927 {
+    width: 150px; height: 150px;
+    background: url('../image/categoryIcons.png') -681px -150px;
+}
+.bg-category_Drinks_1177632854 {
+    width: 150px; height: 150px;
+    background: url('../image/categoryIcons.png') -681px -300px;
+}
+.bg-pizza {
+    width: 150px; height: 150px;
+    background: url('../image/categoryIcons.png') -681px -450px;
+}
+.bg-salad {
+    width: 150px; height: 150px;
+    background: url('../image/categoryIcons.png') -0 -681px;
+}
+.bg-saladLeaf {
+    width: 681px; height: 681px;
+    background: url('../image/categoryIcons.png') -0 -0;
+}

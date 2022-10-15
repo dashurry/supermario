@@ -1,0 +1,68 @@
+.bg-smallPizzaNapoletana60x60 {
+    width: 60px; height: 60px;
+    background: url('../image/lastVisibleContent.webp') -564px -0;
+}
+.bg-smallSalatBowl60x60 {
+    width: 60px; height: 60px;
+    background: url('../image/lastVisibleContent.webp') -564px -60px;
+}
+.bg-smallDonut60x60 {
+    width: 60px; height: 60px;
+    background: url('../image/lastVisibleContent.webp') -564px -120px;
+}
+.bg-icedMocha {
+    width: 60px; height: 60px;
+    background: url('../image/lastVisibleContent.webp') -564px -180px;
+}
+.bg-emma42x42 {
+    width: 42px; height: 42px;
+    background: url('../image/lastVisibleContent.webp') -564px -240px;
+}
+.bg-janeffel {
+    width: 42px; height: 42px;
+    background: url('../image/lastVisibleContent.webp') -564px -282px;
+}
+.bg-EdwardChew {
+    width: 42px; height: 42px;
+    background: url('../image/lastVisibleContent.webp') -564px -324px;
+}
+.bg-janepalson {
+    width: 42px; height: 42px;
+    background: url('../image/lastVisibleContent.webp') -564px -366px;
+}
+.bg-timbrooks {
+    width: 42px; height: 42px;
+    background: url('../image/lastVisibleContent.webp') -564px -408px;
+}
+.bg-sarahcole {
+    width: 42px; height: 42px;
+    background: url('../image/lastVisibleContent.webp') -564px -450px;
+}
+.bg-MichaelSmith {
+    width: 42px; height: 42px;
+    background: url('../image/lastVisibleContent.webp') -564px -492px;
+}
+.bg-instagramPasta {
+    width: 282px; height: 266px;
+    background: url('../image/lastVisibleContent.webp') -0 -0;
+}
+.bg-instagramMeat {
+    width: 282px; height: 266px;
+    background: url('../image/lastVisibleContent.webp') -282px -0;
+}
+.bg-instagramCarpaccio {
+    width: 282px; height: 266px;
+    background: url('../image/lastVisibleContent.webp') -0 -266px;
+}
+.bg-instagramShake {
+    width: 282px; height: 266px;
+    background: url('../image/lastVisibleContent.webp') -282px -266px;
+}
+.bg-TextLogo {
+    width: 108px; height: 28px;
+    background: url('../image/lastVisibleContent.webp') -0 -559px;
+}
+.bg-cards_footer181x27 {
+    width: 181px; height: 27px;
+    background: url('../image/lastVisibleContent.webp') -0 -532px;
+}
