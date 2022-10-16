@@ -14,6 +14,7 @@ Eine Kundendatenbank, ein Tischreservierungssystem und ein Admin-Dashboard zur V
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://pusher.com/" target="_blank" rel="noreferrer"><img src="https://github.com/dashurry/dashurry/blob/main/pusher-seeklogo.com.svg" width="36" height="36" alt="Pusher" /></a>
 
 
 <div align="center">
