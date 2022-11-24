@@ -3,6 +3,9 @@ Ich habe diesen Restaurant-E-Shop für unser Familienunternehmen eingerichtet, u
 
 Eine Kundendatenbank, ein Tischreservierungssystem und ein Admin-Dashboard zur Verwaltung von Bestellungen, Artikeln, Preisen und Lieferbooten sind auf der Website enthalten. Zahlungen werden über Paypal oder Stripe abgewickelt.
 
+# To-do
+Rewriting the page to VueJS
+
 
 # Tech Stack
 <p align="left">
