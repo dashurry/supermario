@@ -1,7 +1,9 @@
 # Super Mario Ristorante:
-Ich habe diesen Restaurant-E-Shop für unser Familienunternehmen eingerichtet, um uns von der Gewinnsteuer von Just-Eat zu befreien und uns eine stärkere Marktposition zu verschaffen.
+Ich habe einen E-Shop für unser Familienrestaurant eingerichtet, um uns von der Gewinnsteuer von Just-Eat zu befreien und uns eine stärkere Marktposition zu verschaffen.
 
-Eine Kundendatenbank, ein Tischreservierungssystem und ein Admin-Dashboard zur Verwaltung von Bestellungen, Artikeln, Preisen und Lieferbooten sind auf der Website enthalten. Zahlungen werden über Paypal oder Stripe abgewickelt.
+Die Website umfasst eine Kundendatenbank, ein Tischreservierungssystem und ein Admin-Dashboard zur Verwaltung von Bestellungen, Artikeln, Preisen und Lieferbooten. Zahlungen werden über Paypal oder Stripe abgewickelt.
+
+Ich bin gerade dabei, die Seite mit Vue.js neu zu gestalten, daher ist sie derzeit nicht zugänglich.
 
 # To-do
 Rewriting the page to VueJS
