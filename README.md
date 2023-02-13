@@ -6,7 +6,13 @@ Die Website umfasst eine Kundendatenbank, ein Tischreservierungssystem und ein A
 Ich bin gerade dabei, die Seite mit Vue.js neu zu gestalten, daher ist sie derzeit nicht zugänglich.
 
 # To-do
-Rewriting the page to VueJS
+Ich arbeite daran, das bestehende Projekt in VueJS neu zu implementieren. 
+
+Hierbei geht es um die Überarbeitung des vorhandenen Code-Stamms, das Neuaufbauen von Komponenten und das Testen von Funktionen, um sicherzustellen, dass die Umsetzung erfolgreich verläuft. 
+
+Ich erwarte, dass der Wechsel zu VueJS viele Vorteile mit sich bringen wird, wie schnellere Ladezeiten, verbesserte Skalierbarkeit und die Möglichkeit, leicht leistungsstärkere Funktionen hinzuzufügen. 
+
+Ausserdem bin ich davon überzeugt, dass die neue Technologie ein besseres Benutzererlebnis bieten wird.
 
 ## Features
 
