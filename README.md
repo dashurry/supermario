@@ -11,6 +11,7 @@ Rewriting the page to VueJS
 ## Features
 
 - [Admin Dashboard](https://streamable.com/mqz6jn)
+- [E-Shop](https://streamable.com/uoyhhb)
 
 
 
