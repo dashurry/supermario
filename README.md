@@ -8,6 +8,11 @@ Ich bin gerade dabei, die Seite mit Vue.js neu zu gestalten, daher ist sie derze
 # To-do
 Rewriting the page to VueJS
 
+## Features
+
+- [Admin Dashboard](https://streamable.com/mqz6jn)
+
+
 
 # Tech Stack
 <p align="left">
